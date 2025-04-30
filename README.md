@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-SALUDOS Compañeros del Curso
+SALUDOS Compañeros del Curso 
 **mcano-dev/mcano-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
